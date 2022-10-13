@@ -1,4 +1,4 @@
-[TOC]
+[[TOC]]
 # test
 ## test2
 ### test3
