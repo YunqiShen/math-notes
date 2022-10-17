@@ -1,3 +1,4 @@
+
 # 一、多项式
 ## （一）知识点
 ### 1、
@@ -13,18 +14,27 @@ $Q(\sqrt[3]{2})$
 $Q(\sqrt[3]{2})$
 作成一个数域。
 【2011，2】设，，且。证明：。
-
-# 二、行列式
-## （一）知识点
-## （二）真题
-【2011，3】计算行列式
-$$\begin{vmatrix}
+$$\left\| \begin{matrix}
   a& 0 &0  &  \cdots &  \\
   &  &  &  \cdots &  \\
   &  &  &  \cdots &  \\
 \vdots & \vdots & \vdots &  & \vdots  \\
   &  &  & \cdots &  
-\end{vmatrix}$$
+\end{matrix}\right\| $$
+
+# 二、行列式
+## （一）知识点
+## （二）真题
+【2011，3】计算行列式
+
+$$\left\| \begin{matrix}
+  a& 0 &0  &  \cdots &  \\
+  &  &  &  \cdots &  \\
+  &  &  &  \cdots &  \\
+\vdots & \vdots & \vdots &  & \vdots  \\
+  &  &  & \cdots &  
+\end{matrix}\right\| $$
+
 
 # 三、线性方程组
 ## （一）知识点
