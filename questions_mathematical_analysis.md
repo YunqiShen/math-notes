@@ -26,8 +26,13 @@ $$\left|\begin{array}{test}
   0 &   0&0  & & x&a_{n-2}\\ 
   0 &  0&0&\cdots &-1&x+a_{n-1}   
 \end{array}\right|$$
-
-$\left|\begin{array}{a}a&b\\c&d\end{array}\right|$
+$$
+  \begin{matrix}
+   1 & 2 & 3 \\
+   4 & 5 & 6 \\
+   7 & 8 & 9
+  \end{matrix} \tag{1}
+$$
 
 # 三、线性方程组
 ## （一）知识点
