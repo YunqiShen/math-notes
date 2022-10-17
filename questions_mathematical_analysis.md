@@ -18,13 +18,13 @@ $Q(\sqrt[3]{2})$
 ## （一）知识点
 ## （二）真题
 【2011，3】计算行列式
-\begin{vmatrix}
-  &  &  &  \cdots &  \\
+$$\begin{vmatrix}
+  a& 0 &0  &  \cdots &  \\
   &  &  &  \cdots &  \\
   &  &  &  \cdots &  \\
 \vdots & \vdots & \vdots &  & \vdots  \\
   &  &  & \cdots &  
-\end{vmatrix}
+\end{vmatrix}$$
 
 # 三、线性方程组
 ## （一）知识点
