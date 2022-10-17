@@ -18,21 +18,13 @@ $Q(\sqrt[3]{2})$
 ## （一）知识点
 ## （二）真题
 【2011，3】计算行列式
-$$\left|\begin{array}{test} 
-    x &  0&0&\cdots &0&a_{0}   \\ 
-    x &  0&0&\cdots &0&a_{1} \\ 
- x &  0&0&\cdots &0&a_{2} \\ 
-\vdots&\vdots&\vdots&&\vdots&\vdots\\
-  0 &   0&0  & & x&a_{n-2}\\ 
-  0 &  0&0&\cdots &-1&x+a_{n-1}   
-\end{array}\right|$$
-$$
-  \begin{matrix}
-   1 & 2 & 3 \\
-   4 & 5 & 6 \\
-   7 & 8 & 9
-  \end{matrix} \tag{1}
-$$
+\begin{vmatrix}
+  &  &  &  \cdots &  \\
+  &  &  &  \cdots &  \\
+  &  &  &  \cdots &  \\
+\vdots & \vdots & \vdots &  & \vdots  \\
+  &  &  & \cdots &  
+\end{vmatrix}
 
 # 三、线性方程组
 ## （一）知识点
