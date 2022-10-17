@@ -27,6 +27,8 @@ $$\left|\begin{array}{test}
   0 &  0&0&\cdots &-1&x+a_{n-1}   
 \end{array}\right|$$
 
+$\left|\begin{array}{a}a&b\\c&d\end{array}\right|$
+
 # 三、线性方程组
 ## （一）知识点
 ## （二）真题
