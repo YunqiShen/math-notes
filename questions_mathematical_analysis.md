@@ -1,4 +1,3 @@
-
 # 一、多项式
 ## （一）知识点
 ### 1、
@@ -13,14 +12,14 @@ $Q(\sqrt[3]{2})$
 证明： 
 $Q(\sqrt[3]{2})$
 作成一个数域。
-【2011，2】设，，且。证明：。
-$$\left\| \begin{matrix}
-  a& 0 &0  &  \cdots &  \\
-  &  &  &  \cdots &  \\
-  &  &  &  \cdots &  \\
-\vdots & \vdots & \vdots &  & \vdots  \\
-  &  &  & \cdots &  
-\end{matrix}\right\| $$
+【2011，2】设
+$f_{1}(x)=af(x)+bg(x)$，
+$g_{1}(x)=cf(x)+dg(x)$，
+且
+$ad-bc\neq0$。
+证明：
+$(f(x),g(x)=(f_{1}(x),g_{1}(x)))$。
+ 
 
 # 二、行列式
 ## （一）知识点
@@ -28,11 +27,12 @@ $$\left\| \begin{matrix}
 【2011，3】计算行列式
 
 $$\left\| \begin{matrix}
-  a& 0 &0  &  \cdots &  \\
-  &  &  &  \cdots &  \\
-  &  &  &  \cdots &  \\
-\vdots & \vdots & \vdots &  & \vdots  \\
-  &  &  & \cdots &  
+  x& 0 &0  &  \cdots &  0&a_{0}\\
+  -1&x  &0  &  \cdots &0&  a_{1}\\
+0  &-1  &x  &  \cdots &0&  a_{2}\\
+\vdots & \vdots & \vdots & &\vdots & \vdots  \\
+ 0&0  &0  & \cdots &x& a_{n-2}\\
+  0&0  &0  & \cdots &-1&x+a_{n-1}
 \end{matrix}\right\| $$
 
 
